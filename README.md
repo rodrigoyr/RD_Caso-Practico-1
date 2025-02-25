@@ -1,1 +1,1 @@
-# RD_Caso-Pr-ctico-1
+# RD_Caso-Practico-1
